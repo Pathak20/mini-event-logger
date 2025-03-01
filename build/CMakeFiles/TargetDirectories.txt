@@ -1,0 +1,3 @@
+/Users/shreyapathak20/git/github-projects/mini-event-logger/build/CMakeFiles/mini-event-logger.dir
+/Users/shreyapathak20/git/github-projects/mini-event-logger/build/CMakeFiles/edit_cache.dir
+/Users/shreyapathak20/git/github-projects/mini-event-logger/build/CMakeFiles/rebuild_cache.dir
